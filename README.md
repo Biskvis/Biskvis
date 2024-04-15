@@ -8,8 +8,8 @@ I'm a passionate self-taught Web Developer with a keen interest in building mode
 
 ## Skills
 - Frontend: HTML, CSS, JavaScript, Typescript, React
-- Backend: Node.js,
-- Database: PostgresSQL
+- Backend: Node.js
+- Database: PostgresSQL, Firebase
 - Other: Git, RESTful APIs
 
 
